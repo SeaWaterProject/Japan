@@ -1,0 +1,288 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+5166,OIIE,large_airport,"Imam Khomeini International Airport",35.416099548339844,51.152198791503906,3305,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,1,OIIE,IKA,,http://www.ikia.ir/,https://en.wikipedia.org/wiki/Imam_Khomeini_International_Airport,Ahmadabad,1200,2008-06-13T14:30:04+00:00
+5168,OIII,large_airport,"Mehrabad International Airport",35.68920135498047,51.31340026855469,3962,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,1,OIII,THR,,,https://en.wikipedia.org/wiki/Mehrabad_International_Airport,,1200,2008-06-13T14:30:04+00:00
+5197,OISS,large_airport,"Shiraz Shahid Dastghaib International Airport",29.5392,52.589802,4927,AS,Iran,IR,"Fars Province",IR-07,07,Shiraz,1,OISS,SYZ,,http://shirazairport.ir/,https://en.wikipedia.org/wiki/Shiraz_International_Airport,,1200,2022-11-20T21:49:09+00:00
+5183,OIMM,large_airport,"Mashhad International Airport",36.235198974609375,59.64099884033203,3263,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,Mashhad,1,OIMM,MHD,,,https://en.wikipedia.org/wiki/Mashhad_International_Airport,"Shahid Hashemi Nejad Airport",1200,2009-03-25T08:12:12+00:00
+5156,OIFM,medium_airport,"Isfahan Shahid Beheshti International Airport",32.750755,51.861483,5059,AS,Iran,IR,"Isfahan Province",IR-10,10,Isfahan,1,OIFM,IFN,,,https://en.wikipedia.org/wiki/Isfahan_International_Airport,Esfahan,750,2022-11-20T12:54:45+00:00
+5204,OITT,medium_airport,"Tabriz International Airport",38.1339,46.235001,4459,AS,Iran,IR,"East Azerbaijan Province",IR-03,03,Tabriz,1,OITT,TBZ,,http://www.tabrizairport.ir/,https://en.wikipedia.org/wiki/Tabriz_International_Airport,IRIAF,750,2021-11-21T15:50:17+00:00
+5174,OIKK,medium_airport,"Ayatollah Hashemi Rafsanjani International Airport",30.271276,56.949692,5741,AS,Iran,IR,"Kerman Province",IR-08,08,Kerman,1,OIKK,KER,,,https://en.wikipedia.org/wiki/Ayatollah_Hashemi_Rafsanjani_Airport,,750,2022-11-20T22:36:53+00:00
+5137,OIAW,medium_airport,"Lieutenant General Qasem Soleimani International Airport",31.3374,48.762001,66,AS,Iran,IR,"Khuzestan Province",IR-06,06,Ahvaz,1,OIAW,AWZ,,,https://en.wikipedia.org/wiki/Ahvaz_International_Airport,"Ahvaz, Ahvaz International Airport, Ahwaz",750,2021-03-08T17:03:25+00:00
+5172,OIKB,medium_airport,"Bandar Abbas International Airport",27.218299865722656,56.37779998779297,22,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Bandar Abbas",1,OIKB,BND,,,https://en.wikipedia.org/wiki/Bandar_Abbas_International_Airport,,750,2008-06-13T14:30:04+00:00
+5206,OIYY,medium_airport,"Shahid Sadooghi Airport",31.9048995972,54.2765007019,4054,AS,Iran,IR,"Yazd Province",IR-21,21,Yazd,1,OIYY,AZD,,,https://en.wikipedia.org/wiki/Shahid_Sadooghi_Airport,,750,2010-08-30T18:51:30+00:00
+5130,OIAA,medium_airport,"Abadan Airport",30.367887,48.230075,10,AS,Iran,IR,"Khuzestan Province",IR-06,06,Abadan,1,OIAA,ABD,,,https://en.wikipedia.org/wiki/Abadan_Airport,,750,2021-03-03T17:23:58+00:00
+5139,OIBB,medium_airport,"Bushehr Airport",28.9447994232,50.8345985413,68,AS,Iran,IR,"Bushehr Province",IR-18,18,Bushehr,1,OIBB,BUZ,,,https://en.wikipedia.org/wiki/Bushehr_Airport,,750,2010-08-30T18:44:40+00:00
+5143,OIBK,medium_airport,"Kish International Airport",26.5261993408,53.980201721200004,101,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Kish Island",1,OIBK,KIH,,,https://en.wikipedia.org/wiki/Kish_Airport,,750,2010-08-30T13:02:43+00:00
+5209,OIZH,medium_airport,"Zahedan International Airport",29.47570037841797,60.90620040893555,4564,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Zahedan,1,OIZH,ZAH,,,https://en.wikipedia.org/wiki/Zahedan_International_Airport,,750,2008-06-13T14:30:04+00:00
+5149,OICC,medium_airport,"Shahid Ashrafi Esfahani Airport",34.3459014893,47.1581001282,4307,AS,Iran,IR,"Kermanshah Province",IR-05,05,Kermanshah,1,OICC,KSH,,,https://en.wikipedia.org/wiki/Shahid_Ashrafi_Esfahani_Airport,,750,2010-08-30T18:50:18+00:00
+5178,OIKR,medium_airport,"Rafsanjan Airport",30.298345,56.048979,5298,AS,Iran,IR,"Kerman Province",IR-08,08,Rafsanjan,1,OIKR,RJN,,,https://en.wikipedia.org/wiki/Rafsanjan_Airport,,750,2022-03-17T17:00:32+00:00
+5159,OIGG,medium_airport,"Sardar-e-Jangal Airport",37.323333,49.617778,-40,AS,Iran,IR,"Gilan Province",IR-01,01,Rasht,1,OIGG,RAS,,http://rasht.airport.ir/HomePage.aspx?site=rasht.airport&lang=fa-IR&tabid=0,https://en.wikipedia.org/wiki/Rasht_Airport,,750,2012-12-12T10:16:02+00:00
+5138,OIBA,medium_airport,"Abu Musa Island Airport",25.8757,55.033001,23,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Abu Musa",1,OIBA,AEU,,,https://en.wikipedia.org/wiki/Abu_Musa_Airport,,500,2019-02-16T12:07:15+00:00
+5171,OIIP,medium_airport,"Payam Karaj International Airport",35.7761,50.826698,4170,AS,Iran,IR,"Alborz Province",IR-30,30,Karaj,1,OIIP,PYK,,,https://en.wikipedia.org/wiki/Payam_International_Airport,,500,2022-06-28T12:52:26+00:00
+5188,OING,medium_airport,"Gorgan Airport",36.909400939899996,54.4012985229,-24,AS,Iran,IR,"Golestan Province",IR-27,27,Gorgan,0,OING,GBT,,,https://en.wikipedia.org/wiki/Gorgan_Airport,,250,2010-08-30T18:46:28+00:00
+5163,OIIA,small_airport,"Qazvin Azadi Airport",35.952099,50.450802,3769,AS,Iran,IR,"Qazvin Province",IR-26,26,"Gharpuz Abad",0,OIIA,,,,https://en.wikipedia.org/wiki/Qazvin-Azadi_Airport,,50,2024-05-18T21:15:19+00:00
+5200,OITL,medium_airport,"Ardabil Airport",38.3256988525,48.4244003296,4315,AS,Iran,IR,"Ardabil Province",IR-24,24,Ardabil,1,OITL,ADU,,,https://en.wikipedia.org/wiki/Ardabil_Airport,,750,2010-08-30T13:02:12+00:00
+5144,OIBL,medium_airport,"Bandar Lengeh International Airport",26.532283,54.82484,67,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Bandar Lengeh",1,OIBL,BDH,,,https://en.wikipedia.org/wiki/Bandar_Lengeh_Airport,,750,2022-01-28T14:39:36+00:00
+5180,OIMB,medium_airport,"Birjand International Airport",32.896525,59.281258,4952,AS,Iran,IR,"South Khorasan Province",IR-29,29,Birjand,1,OIMB,XBJ,,,https://en.wikipedia.org/wiki/Birjand_Airport,,750,2021-10-15T17:12:37+00:00
+5190,OINN,medium_airport,"Nowshahr Airport",36.664286,51.46273,-61,AS,Iran,IR,"Mazandaran Province",IR-02,02,Nowshahr,1,OINN,NSH,,,https://en.wikipedia.org/wiki/Noshahr_Airport,Noshahr,750,2022-01-04T04:09:55+00:00
+5192,OINZ,medium_airport,"Sari Dasht-e Naz International Airport",36.644408,53.188761,35,AS,Iran,IR,"Mazandaran Province",IR-02,02,Sari,1,OINZ,SRY,,,https://en.wikipedia.org/wiki/Dasht-e_Naz_Airport,,750,2021-04-27T16:22:16+00:00
+5203,OITR,medium_airport,"Urmia Airport",37.6680984497,45.0686988831,4343,AS,Iran,IR,"West Azerbaijan Province",IR-04,04,Urmia,1,OITR,OMH,,,https://en.wikipedia.org/wiki/Urmia_Airport,,750,2010-08-30T13:04:12+00:00
+5131,OIAD,medium_airport,"Dezful Airport",32.434399,48.397598,474,AS,Iran,IR,"Khuzestan Province",IR-06,06,Dezful,1,OIAD,DEF,,,https://en.wikipedia.org/wiki/Dezful_Airport,"Vahdati Air Base",500,2021-07-31T16:47:37+00:00
+5160,OIHH,medium_airport,"Hamadan Airport",34.869202,48.552502,5755,AS,Iran,IR,"Hamadan Province",IR-13,13,Hamadan,1,OIHH,HDM,,,https://en.wikipedia.org/wiki/Hamadan_International_Airport,,500,2024-05-17T08:21:50+00:00
+5145,OIBP,medium_airport,"Persian Gulf International Airport",27.379601,52.737701,27,AS,Iran,IR,"Bushehr Province",IR-18,18,Khiyaroo,1,OIBP,PGU,,,https://en.wikipedia.org/wiki/Persian_Gulf_Airport,"Asalouyeh, Khalije Fars, PSEEZ, Bandar Asalouyeh, Pars-Special-Zone, عسلویه",500,2022-11-20T19:24:56+00:00
+5196,OISR,medium_airport,"Lamerd Airport",27.3727,53.188801,1337,AS,Iran,IR,"Fars Province",IR-07,07,Lamerd,1,OISR,LFM,,,https://en.wikipedia.org/wiki/Lamerd_Airport,,500,2021-07-31T16:52:11+00:00
+5150,OICI,medium_airport,"Ilam Airport",33.58660125732422,46.40480041503906,4404,AS,Iran,IR,"Iiam Province",IR-16,16,Ilam,0,OICI,IIL,,,https://en.wikipedia.org/wiki/Ilam_Airport,,250,2008-06-13T14:30:04+00:00
+5173,OIKJ,medium_airport,"Jiroft Airport",28.723519,57.675037,2663,AS,Iran,IR,"Kerman Province",IR-08,08,Jiroft,0,OIKJ,JYR,,,https://en.wikipedia.org/wiki/Jiroft_Airport,Sabzevaran,250,2022-03-17T17:01:59+00:00
+5179,OIKY,medium_airport,"Sirjan Airport",29.5509,55.672699,5846,AS,Iran,IR,"Kerman Province",IR-08,08,Sirjan,0,OIKY,SYJ,,,https://en.wikipedia.org/wiki/Sirjan_Airport,,250,2024-05-17T08:22:21+00:00
+5186,OIMT,medium_airport,"Tabas Airport",33.667801,56.8927,2312,AS,Iran,IR,"Yazd Province",IR-21,21,Tabas,0,OIMT,TCX,,,https://en.wikipedia.org/wiki/Tabas_Airport,,250,2024-05-17T08:23:14+00:00
+5198,OISY,medium_airport,"Yasuj Airport",30.702238,51.542988,5939,AS,Iran,IR,"Kohgiluyeh and Boyer-Ahmad Province",IR-17,17,Yasuj,0,OISY,YES,,,https://en.wikipedia.org/wiki/Yasuj_Airport,Yasouj,250,2022-11-20T21:14:21+00:00
+5207,OIZB,medium_airport,"Zabol Airport",31.098301,61.5439,1628,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Zabol,0,OIZB,ACZ,,,https://en.wikipedia.org/wiki/Zabol_Airport,,250,2021-02-03T16:14:00+00:00
+35276,OIKQ,small_airport,"Qeshm Dayrestan International Airport",26.754639,55.902353,45,AS,Iran,IR,"Hormozgan Province",IR-22,22,Dayrestan,1,OIKQ,GSM,,,https://en.wikipedia.org/wiki/Qeshm_International_Airport,"Qeshm Island",150,2022-08-06T09:41:42+00:00
+44968,IR-0006,closed,"Andimeshk-Karkhe Dam Highway Strip",32.402755,48.181872,,AS,Iran,IR,"Khuzestan Province",IR-06,06,Ghods,0,,,,,,"باند قدیمی فرودگاه اندیمشک",0,2021-03-08T17:13:51+00:00
+5152,OICS,medium_airport,"Sanandaj Airport",35.24589920043945,47.00920104980469,4522,AS,Iran,IR,"Kurdistan Province",IR-12,12,,1,OICS,SDG,,,https://en.wikipedia.org/wiki/Sanandaj_Airport,,750,2008-11-30T19:37:35+00:00
+5151,OICK,medium_airport,"Khoram Abad Airport",33.43539810180664,48.282901763916016,3782,AS,Iran,IR,"Lorestan Province",IR-15,15,,1,OICK,KHD,,,https://en.wikipedia.org/wiki/Khorramabad_Airport,,750,2008-11-30T19:37:33+00:00
+5175,OIKM,medium_airport,"Bam Airport",29.0842,58.450001,3231,AS,Iran,IR,"Kerman Province",IR-08,08,Bam,1,OIKM,BXR,,,https://en.wikipedia.org/wiki/Bam_Airport,,750,2022-03-17T17:01:04+00:00
+5184,OIMN,medium_airport,"Bojnord Airport",37.49300003051758,57.30820083618164,3499,AS,Iran,IR,"North Khorasan Province",IR-28,28,Bojnord,1,OIMN,BJB,,,https://en.wikipedia.org/wiki/Bojnourd_Airport,Bojnourd,750,2009-03-25T08:42:16+00:00
+5195,OISL,medium_airport,"Lar Airport",27.6747,54.383301,2641,AS,Iran,IR,"Fars Province",IR-07,07,Lar,1,OISL,LRR,,,https://en.wikipedia.org/wiki/Larestan_International_Airport,,750,2021-06-30T11:30:00+00:00
+5136,OIAM,medium_airport,"Mahshahr Airport",30.5562,49.151901,8,AS,Iran,IR,"Khuzestan Province",IR-06,06,Mahshahr,1,OIAM,MRX,,,https://en.wikipedia.org/wiki/Mahshahr_Airport,,750,2021-03-08T17:11:13+00:00
+5191,OINR,medium_airport,"Ramsar Airport",36.90701,50.687316,-70,AS,Iran,IR,"Mazandaran Province",IR-02,02,Ramsar,1,OINR,RZR,,,https://en.wikipedia.org/wiki/Ramsar_Airport,,750,2022-01-04T04:14:44+00:00
+5185,OIMS,medium_airport,"Sabzevar National Airport",36.16809844970703,57.59519958496094,3010,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,Sabzevar,1,OIMS,AFZ,,,https://en.wikipedia.org/wiki/Sabzevar_Airport,,750,2009-03-25T08:45:32+00:00
+5133,OIAH,medium_airport,"Gachsaran Airport",30.333869,50.833796,2414,AS,Iran,IR,"Kohgiluyeh and Boyer-Ahmad Province",IR-17,17,Gachsaran,1,OIAH,GCH,,,https://en.wikipedia.org/wiki/Gachsaran_Airport,,500,2022-12-13T11:46:21+00:00
+5155,OIFK,medium_airport,"Kashan Airport",33.895302,51.577,3465,AS,Iran,IR,"Isfahan Province",IR-10,10,Kashan,1,OIFK,KKS,,,https://en.wikipedia.org/wiki/Kashan_Airport,,500,2019-02-16T13:38:06+00:00
+5208,OIZC,medium_airport,"Chabahar Konarak International Airport",25.44319,60.382167,13,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Konarak,1,OIZC,ZBR,ZBR,,https://en.wikipedia.org/wiki/Chabahar_Konarak_Airport,,500,2023-03-09T17:26:04+00:00
+5147,OIBS,medium_airport,"Siri Airport",25.908899,54.539398,43,AS,Iran,IR,"Hormozgan Province",IR-22,22,Siri,0,OIBS,SXI,,,https://en.wikipedia.org/wiki/Sirri_Island_Airport,,275,2024-05-17T08:20:39+00:00
+5132,OIAG,medium_airport,"Aghajari Airport",30.7444,49.6772,88,AS,Iran,IR,"Khuzestan Province",IR-06,06,Aghajari,0,OIAG,AKW,,,https://en.wikipedia.org/wiki/Aghajari_Airport,,250,2016-10-05T13:28:11+00:00
+5162,OIHS,medium_airport,"Nojeh Air Base",35.211601,48.6534,5609,AS,Iran,IR,"Hamadan Province",IR-13,13,Amirabad,0,OIHS,NUJ,,,https://en.wikipedia.org/wiki/Hamadan_Airbase,"Hamadan Air Base, Shahrokhi, Noje",250,2023-04-30T13:19:44+00:00
+5141,OIBI,closed,"Asalouyeh Airport",27.482359,52.612897,15,AS,Iran,IR,"Bushehr Province",IR-18,18,Asalouyeh,0,,,,,https://en.wikipedia.org/wiki/Asalouyeh_Airport,"AOY, OIBI, YEH, OI15",250,2022-11-20T19:25:47+00:00
+5157,OIFP,medium_airport,"Badr Air Base",32.621101,51.696999,5242,AS,Iran,IR,"Isfahan Province",IR-10,10,Esfahan,0,OIFP,,,,,"Sepah Air Base",250,2021-10-15T17:15:39+00:00
+5193,OISF,medium_airport,"Fasa Airport",28.8918,53.723301,4261,AS,Iran,IR,"Fars Province",IR-07,07,Fasa,0,OISF,FAZ,,,https://en.wikipedia.org/wiki/Fasa_Airport,,250,2024-05-17T08:23:43+00:00
+5210,OIZI,medium_airport,"Iranshahr Airport",27.236099,60.720001,2040,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Iranshahr,0,OIZI,IHR,,,https://en.wikipedia.org/wiki/Iranshahr_Airport,,250,2021-02-03T16:13:48+00:00
+5142,OIBJ,medium_airport,"Jam Airport",27.820499,52.3522,2173,AS,Iran,IR,"Bushehr Province",IR-18,18,Jam,0,OIBJ,KNR,,,https://en.wikipedia.org/wiki/Jam_Airport,"Kangan, Tohid, OIBM",250,2024-05-17T08:19:44+00:00
+5170,OIIM,medium_airport,"Naja Airport",35.776299,50.881001,4040,AS,Iran,IR,"Alborz Province",IR-30,30,Karaj,0,OIIM,,,,,,250,2021-12-09T06:28:21+00:00
+5146,OIBQ,medium_airport,"Khark Airport",29.260503,50.322193,17,AS,Iran,IR,"Bushehr Province",IR-18,18,Khark,0,OIBQ,KHK,,,https://en.wikipedia.org/wiki/Kharg_Airport,,250,2024-05-17T08:20:19+00:00
+5148,OIBV,medium_airport,"Lavan Airport",26.810742,53.354302,76,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Lavan Airport",0,OIBV,LVP,,,https://en.wikipedia.org/wiki/Lavan_Airport,,250,2024-05-17T08:21:01+00:00
+5134,OIAI,medium_airport,"Shahid Asiyaee Airport",32.001719,49.268599,1206,AS,Iran,IR,"Khuzestan Province",IR-06,06,"Masjed Soleyman",0,OIAI,QMJ,,,,"Shahid Asyaee",250,2021-03-08T17:06:11+00:00
+5169,OIIK,medium_airport,"Qazvin Airport",36.240101,50.0471,4184,AS,Iran,IR,"Qazvin Province",IR-26,26,Qazvin,0,OIIK,GZW,,,https://en.wikipedia.org/wiki/Qazvin_Airport,Ghazvin,250,2016-07-30T23:54:23+00:00
+5181,OIMC,medium_airport,"Sarakhs Airport",36.501202,61.064899,945,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,Sarakhs,0,OIMC,CKT,,,https://en.wikipedia.org/wiki/Sarakhs_Airport,,250,2024-05-21T13:48:30+00:00
+5158,OIFS,medium_airport,"Shahrekord Airport",32.2971992493,50.842201232899995,6723,AS,Iran,IR,"Chaharmahal and Bakhtiari Province",IR-14,14,Shahrekord,0,OIFS,CQD,,,https://en.wikipedia.org/wiki/Shahrekord_Airport,,250,2010-08-30T18:50:57+00:00
+42526,OITU,medium_airport,"Maku National Airport",39.191293,44.928505,3136,AS,Iran,IR,"West Azerbaijan Province",IR-04,04,Showt,0,OITU,IMQ,,,https://en.wikipedia.org/wiki/Maku_International_Airport,Makou,250,2023-12-28T22:41:01+00:00
+513741,IR-0161,medium_airport,"Oghab 44 Airbase",28.04816,55.521791,,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Tarom Rural District",0,,,,,https://en.wikipedia.org/wiki/Oghab_44,,250,2023-10-25T05:50:52+00:00
+5167,OIIG,closed,"Ghale Morghi Airport",35.644798,51.380699,3627,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,0,,,,,,"OIIG, OIIG",250,2021-01-28T17:03:39+00:00
+5205,OITZ,medium_airport,"Zanjan Airport",36.7737007141,48.3594017029,5382,AS,Iran,IR,"Zanjan Province",IR-19,19,Zanjan,0,OITZ,JWN,,,https://en.wikipedia.org/wiki/Zanjan_Airport,,250,2014-12-06T22:09:27+00:00
+32107,OIZJ,small_airport,"Jask Airport",25.654757,57.801718,19,AS,Iran,IR,"Hormozgan Province",IR-22,22,Bandar-e-Jask,1,OIZJ,JSK,,,https://en.wikipedia.org/wiki/Jask_Airport,,100,2022-11-20T13:18:46+00:00
+5202,OITP,small_airport,"Parsabad-Moghan Airport",39.6036,47.8815,251,AS,Iran,IR,"Ardabil Province",IR-24,24,Parsabad,1,OITP,PFQ,,,https://en.wikipedia.org/wiki/Parsabad-Moghan_Airport,,100,2021-10-12T10:34:20+00:00
+32103,OIIS,small_airport,"Semnan Municipal Airport",35.591099,53.495098,3665,AS,Iran,IR,"Semnan Province",IR-20,20,Semnan,1,OIIS,SNX,,,https://en.wikipedia.org/wiki/Semnan_Municipal_Airport,,100,2019-02-16T14:34:14+00:00
+3347,OI13,small_airport,"Mahmudabad Airport",30,53.71149826049805,6970,AS,Iran,IR,"Fars Province",IR-07,07,,0,OI13,,OI13,,,,50,2008-11-30T19:36:41+00:00
+44975,IR-0011,small_airport,"Mansurabad North Airport",30.0358296188,52.8002715111,,AS,Iran,IR,"Fars Province",IR-07,07,,0,,,,,,,50,2009-09-04T07:43:54+00:00
+42512,OICZ,small_airport,"Aligoodarz Airport",33.38359832763672,49.6963996887207,6505,AS,Iran,IR,"Lorestan Province",IR-15,15,,0,OICZ,,,,,,50,2008-12-30T12:21:27+00:00
+3351,IR-0124,small_airport,"Semnan New Airport",35.3894,53.671398,3659,AS,Iran,IR,"Semnan Province",IR-20,20,,0,,,OI21,,,,50,2022-11-12T13:47:39+00:00
+5140,OIBH,small_airport,"Bastak Airport",27.21269989013672,54.318599700927734,1350,AS,Iran,IR,"Hormozgan Province",IR-22,22,,0,OIBH,,,,,,50,2008-11-30T19:37:13+00:00
+44976,IR-0012,small_airport,"Tehran West Airport",35.7419667495,51.229226589199996,,AS,Iran,IR,"Tehran Province",IR-23,23,,0,,,,,,,50,2009-09-04T07:46:16+00:00
+354796,IR-0089,small_airport,"Military Runway",35.545758,50.976434,,AS,Iran,IR,"Tehran Province",IR-23,23,,0,,,,,,,50,2022-06-06T05:45:41+00:00
+354797,IR-0090,small_airport,"Military Runway",35.578874,50.880347,,AS,Iran,IR,"Tehran Province",IR-23,23,,0,,,,,,,50,2022-06-06T05:49:23+00:00
+515969,IR-0162,small_airport,Choghadak,28.979106,50.988686,,AS,Iran,IR,(unassigned),IR-U-A,U-A,,0,,,,,,,50,2023-11-28T03:09:53+00:00
+516961,IR-0163,small_airport,"Greenhouse town",32.864676,59.027235,,AS,Iran,IR,(unassigned),IR-U-A,U-A,,0,,,,,,,50,2023-12-11T10:31:32+00:00
+517140,IR-0164,small_airport,Jakigor,26.143691,61.517823,,AS,Iran,IR,(unassigned),IR-U-A,U-A,,0,,,,,,,50,2023-12-15T09:21:47+00:00
+43228,IR-0003,small_airport,"Ab Pakhsh Airport",29.375799,51.067501,,AS,Iran,IR,"Bushehr Province",IR-18,18,"Ab Pakhsh",0,,,,,,"Darrahi Military Airfield",50,2022-11-20T20:07:06+00:00
+42524,OISA,small_airport,"Abadeh Airport",31.033006,52.785988,5320,AS,Iran,IR,"Fars Province",IR-07,07,Abadeh,0,OISA,,,,https://en.wikipedia.org/wiki/Abadeh_Airport,"Eqlid, فرودگاه آباده",50,2023-12-17T11:30:49+00:00
+32101,OICD,small_airport,"Abdanan Airport",32.934502,47.483398,2600,AS,Iran,IR,"Iiam Province",IR-16,16,Abdanan,0,OICD,,,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86,,50,2024-05-20T18:42:31+00:00
+351119,IR-0043,small_airport,"Abhar Flight School Airport",36.13005,49.19908,5223,AS,Iran,IR,"Zanjan Province",IR-19,19,Abhar,0,,,,,,,50,2021-12-30T16:22:45+00:00
+43227,IR-0002,small_airport,"Ahmadi Military Air Field",29.099199,51.035301,,AS,Iran,IR,"Bushehr Province",IR-18,18,Ahmadi,0,,,,,,,50,2022-01-17T11:11:08+00:00
+5189,OINJ,small_airport,"Bishe Kola Air Base",36.655102,52.349602,-79,AS,Iran,IR,"Mazandaran Province",IR-02,02,Amol,0,OINJ,BSM,,,https://en.wikipedia.org/wiki/Bishe_Kola_Airbase,,50,2024-05-20T18:43:13+00:00
+42519,OINA,closed,"Amol Airport",36.470798,52.3633,318,AS,Iran,IR,"Mazandaran Province",IR-02,02,Amol,0,,,,,,"OINA, OINA",50,2021-04-27T16:18:58+00:00
+5161,OIHR,small_airport,"Arak Airport",34.1381,49.847301,5440,AS,Iran,IR,"Markazi Province",IR-00,00,Araak,0,OIHR,AJK,,,https://en.wikipedia.org/wiki/Arak_Airport,,50,2024-04-07T06:06:50+00:00
+351124,IR-0047,small_airport,"Aradan Airport",35.23912,52.50806,2844,AS,Iran,IR,"Semnan Province",IR-20,20,Aradan,0,,,,,,,50,2021-12-30T16:33:04+00:00
+42520,OINB,closed,"Babolsar Airport",36.711263,52.679699,-49,AS,Iran,IR,"Mazandaran Province",IR-02,02,Babolsar,0,,,,,,"OINB, OINB",50,2021-04-27T16:17:26+00:00
+42527,OIYB,closed,"Bafgh Airport",31.583332,55.566666,,AS,Iran,IR,"Yazd Province",IR-21,21,Bafgh,0,,,,,,OIYB,50,2022-11-20T23:05:44+00:00
+42516,OIKF,closed,"Baft Airport",29.2342,56.606899,7385,AS,Iran,IR,"Kerman Province",IR-08,08,Baft,0,,,,,,"OIKF, OIKF",50,2022-01-24T14:57:41+00:00
+5176,OIKP,small_airport,"Havadarya Airport",27.1583,56.172501,19,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Bandar Abbas",0,OIKP,HDR,,,,,50,2022-01-21T23:44:17+00:00
+32755,OICB,small_airport,"Baneh Airport",35.987701416015625,45.84709930419922,4911,AS,Iran,IR,"Kurdistan Province",IR-12,12,Baneh,0,OICB,,,,,,50,2008-11-30T19:37:26+00:00
+32105,OISD,small_airport,"Darab Airport",28.7216,54.441299,3600,AS,Iran,IR,"Fars Province",IR-07,07,Bargan,0,OISD,,,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8,,50,2024-05-20T18:43:28+00:00
+42521,OINH,closed,"Behshahr Airport",36.694401,53.5425,137,AS,Iran,IR,"Mazandaran Province",IR-02,02,Behshahr,0,,,,,,"OINH, OINH",50,2021-04-27T16:23:02+00:00
+312775,IR-0017,small_airport,"Birjand/Khor Airport",32.861727,58.424928,3675,AS,Iran,IR,"South Khorasan Province",IR-29,29,Birjand,0,OIMK,,,,,,50,2024-04-22T18:11:35+00:00
+42510,OIBN,closed,"Borazjan Airport",29.266666,51.200001,265,AS,Iran,IR,"Bushehr Province",IR-18,18,Borazjan,0,,,,,,"OIBN, OIBN",50,2022-01-17T11:02:38+00:00
+340191,IR-0022,small_airport,"Bahregan Air Base",28.90889,50.85616,,AS,Iran,IR,"Bushehr Province",IR-18,18,Bushehr,0,,,,,,,50,2022-01-17T11:15:06+00:00
+23664,US-OI05,small_airport,"Naeen Military Airport",33.094298,53.412495,3550,AS,Iran,IR,"Isfahan Province",IR-10,10,Chashmeh-i-Zaghab,0,,,,,,,50,2022-11-20T23:41:29+00:00
+42515,OIIU,closed,"Damghan Airport",36.166698,54.343899,3887,AS,Iran,IR,"Semnan Province",IR-20,20,Damghan,0,,,,,,"OIIU, OIIU",50,2022-06-28T13:34:53+00:00
+505022,IR-0155,small_airport,"Darband Airport",31.77942,56.99676,2110,AS,Iran,IR,"Kerman Province",IR-08,08,Darband,0,,,,,,,50,2022-11-20T22:53:34+00:00
+5154,OIFH,small_airport,"Shahid Vatanpour Army Air Base",32.567166,51.69111,5310,AS,Iran,IR,"Isfahan Province",IR-10,10,Esfahan,0,OIFH,,,,,,50,2021-10-15T17:16:22+00:00
+355312,IR-0120,small_airport,"Esfarayen Agricultural Airport",37.017635,57.564388,,AS,Iran,IR,"North Khorasan Province",IR-28,28,Esfarayen,0,,,,,,,50,2022-06-28T13:27:35+00:00
+44967,IR-0005,small_airport,"Shahid Nejad Rezaei Highway Strip",34.070489,46.597095,,AS,Iran,IR,"Kermanshah Province",IR-05,05,Eslamabad-e-Gharb,0,,,,,,"Shahabad Highway Strip",50,2021-11-05T15:05:54+00:00
+330558,OIIB,small_airport,"Eyvanekey Aflak-e-Asia Airport",35.360351,51.98659,3363,AS,Iran,IR,"Semnan Province",IR-20,20,Eyvanekey,0,OIIB,,,http://bpkh.co.ir/index.php/en/homepage/91-box/28-boland-parvaz-khavar-eyvanaki-airport,,"Aflak Asia",50,2021-12-30T16:31:19+00:00
+505023,IR-0156,small_airport,"Imam Reza Airport",31.693937,54.575422,3110,AS,Iran,IR,"Yazd Province",IR-21,21,Fahraj,0,OIYR,,,,,Pishgaman,50,2024-04-22T08:45:58+00:00
+349458,IR-0036,small_airport,"Fath Airport",35.7154,50.93407,3999,AS,Iran,IR,"Alborz Province",IR-30,30,Fardis,0,OIIF,,,,https://en.wikipedia.org/wiki/Fath_Air_Base,,50,2024-05-18T16:40:16+00:00
+342244,IR-0030,small_airport,"Old Neyshabur Airport",36.09398,58.71059,3652,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,"Fath Abad",0,,,,,,,50,2021-12-17T18:31:17+00:00
+349457,IR-0035,small_airport,"Filestan Airport",35.43327,51.64057,3241,AS,Iran,IR,"Tehran Province",IR-23,23,Filestan,0,,,,,,,50,2021-11-05T14:54:07+00:00
+351870,IR-0072,small_airport,"Fin Agricultural Airport",27.61734,55.90797,1024,AS,Iran,IR,"Hormozgan Province",IR-22,22,Fin,0,,,,,,,50,2022-01-24T14:55:09+00:00
+3348,OI19,small_airport,"Shahid Aryafar Airport",35.5299,51.505798,3380,AS,Iran,IR,"Tehran Province",IR-23,23,Firuzabad,0,OIIR,,OI19,,,,50,2024-04-08T06:50:44+00:00
+351737,IR-0069,small_airport,"Gahkom Airport",28.1716,55.82397,2280,AS,Iran,IR,"Hormozgan Province",IR-22,22,Gahkom,0,,,,,,,50,2022-01-21T23:42:43+00:00
+3345,OI03,small_airport,"Garmsār Southwest Airport",35.174198,52.323299,2717,AS,Iran,IR,"Semnan Province",IR-20,20,Garmsār,0,OI03,,OI03,,,,50,2021-11-05T14:55:29+00:00
+340189,IR-0020,small_airport,"Gaz Airport",26.3901,57.13363,,AS,Iran,IR,"Hormozgan Province",IR-22,22,Gaz,0,,,,,,,50,2022-11-20T18:44:44+00:00
+42522,OINI,closed,"Ghaem Shahr Airport",36.466667,52.866669,,AS,Iran,IR,"Mazandaran Province",IR-02,02,"Ghaem Shahr",0,,,,,,"OINI, OINI",50,2021-04-27T16:21:07+00:00
+42517,OIMD,small_airport,"Gonabad Airport",34.349998474121094,58.68000030517578,,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,Gonabad,0,OIMD,,,,,"Gulnabad, Goonabad, Juymand, گناباد",50,2009-03-25T08:44:41+00:00
+3352,IR-OI24,small_airport,"Gonbad-e Kavus Airport",37.246101,55.095901,107,AS,Iran,IR,"Golestan Province",IR-27,27,"Gonbad-e Kavus",0,,,OI24,,,,50,2022-06-28T13:32:14+00:00
+44972,IR-0008,small_airport,"Goreh Airport",29.907236,50.427847,121,AS,Iran,IR,"Bushehr Province",IR-18,18,Goreh,0,,,,,,,50,2022-01-17T11:16:45+00:00
+350784,IR-0039,small_airport,"Gonbad Kavus / Haji Balkan Airport",37.20101,55.26871,220,AS,Iran,IR,"Golestan Province",IR-27,27,"Haji Balkan",0,,,,,,,50,2021-12-17T18:35:32+00:00
+340190,IR-0021,small_airport,"Hendorabi Airport",26.68653,53.60539,,AS,Iran,IR,"Hormozgan Province",IR-22,22,Hendorabi,0,,,,,,,50,2022-11-20T19:13:07+00:00
+5153,OIFE,small_airport,"Hesa Airport",32.928902,51.5611,5256,AS,Iran,IR,"Isfahan Province",IR-10,10,Hesa,0,OIFE,IFH,,,https://en.wikipedia.org/wiki/Hesa_Air_Base,,50,2024-05-17T08:21:24+00:00
+44966,IR-0004,small_airport,"Shahrokhi Highway Strip",35.234192,48.601653,,AS,Iran,IR,"Hamadan Province",IR-13,13,"Hesar-e Qujeh Baghi",0,,,,,,,50,2021-11-05T15:03:34+00:00
+3350,OI20,small_airport,"Bahregan Airport",29.840099,50.272701,20,AS,Iran,IR,"Bushehr Province",IR-18,18,"Imam Hassan",0,OI20,IAQ,OI20,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%D9%87%D8%B1%DA%AF%D8%A7%D9%86,,50,2024-05-20T18:40:38+00:00
+5194,OISJ,small_airport,"Jahrom Airport",28.586700439499996,53.5791015625,3358,AS,Iran,IR,"Fars Province",IR-07,07,Jahrom,0,OISJ,JAR,,,https://en.wikipedia.org/wiki/Jahrom_Airport,,50,2014-08-21T10:14:01+00:00
+505014,IR-0148,small_airport,"Bayda Agricultural Airport",29.92596,52.49911,5246,AS,Iran,IR,"Fars Province",IR-07,07,"Jari Abad",0,,,,,,,50,2022-11-20T21:40:57+00:00
+5187,OINE,small_airport,"Kalaleh Airport",37.383301,55.452,425,AS,Iran,IR,"Golestan Province",IR-27,27,Kalaleh,0,OINE,KLM,,,https://en.wikipedia.org/wiki/Kalaleh_Airport,,50,2023-03-02T22:01:45+00:00
+351579,IR-0064,small_airport,"Karzin Airport",28.4315,53.0847,2287,AS,Iran,IR,"Fars Province",IR-07,07,Karzin,0,,,,,,,50,2022-01-17T11:42:50+00:00
+342246,IR-0032,small_airport,"Kashmar Ultralight Airport",35.26288,58.51793,3770,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,Kashmar,0,OIMQ,,,,https://en.wikipedia.org/wiki/Kashmar_UltraLight_Airport,,50,2024-04-08T06:45:04+00:00
+517227,IR-0165,small_airport,Kazerun,29.61274,51.598299,2653,AS,Iran,IR,"Fars Province",IR-07,07,Kazerun,0,,,,,,"كازرون, Kazeroon",50,2023-12-17T11:42:33+00:00
+351872,IR-0074,small_airport,"Afshid Airport",30.254498,57.212671,6001,AS,Iran,IR,"Kerman Province",IR-08,08,Kerman,0,,,,,,,50,2022-03-17T17:00:04+00:00
+42528,IR-0001,small_airport,"Khaneh Airport",36.733341,45.150002,4804,AS,Iran,IR,"West Azerbaijan Province",IR-04,04,Khaneh,0,OITH,KHA,,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1,,50,2024-06-07T08:24:59+00:00
+308232,IR-0016,small_airport,"Khāsh Airport",28.239227,61.180453,,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Khash,0,,,OIZK,,,,50,2021-02-03T16:15:04+00:00
+355301,IR-0109,small_airport,"Hezar Jolfa Airstrip",36.096559,50.243765,,AS,Iran,IR,"Qazvin Province",IR-26,26,Khatayan,0,,,,,,,50,2022-06-28T12:50:12+00:00
+351899,IR-0084,small_airport,"Shamsabad Airport",29.527426,53.36493,5250,AS,Iran,IR,"Fars Province",IR-07,07,Kherameh,0,,,,,,"Seyāh Zār",50,2022-01-25T13:58:27+00:00
+340039,IR-0018,small_airport,"Khomajin Airport",35.053018,49.18922,,AS,Iran,IR,"Hamadan Province",IR-13,13,Khomajin,0,,,,,,,50,2021-01-23T22:17:29+00:00
+351117,IR-0041,small_airport,"Khorramdarreh Airport",36.24192,49.22497,5449,AS,Iran,IR,"Zanjan Province",IR-19,19,Khorramdarreh,0,,,,,,,50,2021-12-30T16:20:25+00:00
+5199,OITK,small_airport,"Khoy Airport",38.4275016784668,44.97359848022461,3981,AS,Iran,IR,"West Azerbaijan Province",IR-04,04,Khoy,0,OITK,KHY,,,https://en.wikipedia.org/wiki/Khoy_Airport,,50,2008-11-30T19:39:17+00:00
+340188,IR-0019,small_airport,"Konarak Air Base",25.33187,60.35659,,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Konarak,0,,,,,,,50,2022-09-15T02:21:59+00:00
+351572,IR-0059,small_airport,"Konartakhteh Airport",29.55221,51.39436,1644,AS,Iran,IR,"Fars Province",IR-07,07,Konartakhteh,0,,,,,,,50,2022-01-17T11:00:23+00:00
+504987,IR-0127,small_airport,"Kuh Mobarak Airport",25.82522,57.32388,9,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Kuh Mobarak",0,,,,,,,50,2022-11-20T18:39:04+00:00
+46542,IR-0014,small_airport,"Ella North Airport",31.92180801,48.87751713,,AS,Iran,IR,"Khuzestan Province",IR-06,06,Langar,0,,,,,,,50,2010-12-29T16:49:56+00:00
+505015,IR-0149,small_airport,"Lapui Airport",29.80889,52.66683,5217,AS,Iran,IR,"Fars Province",IR-07,07,Lapui,0,,,,,,"Lapuee, Qaleh-e Lapui",50,2022-11-20T21:45:00+00:00
+42523,OINM,small_airport,"Mahmood Abad Airport",34.169166564941406,51.317501068115234,,AS,Iran,IR,"Isfahan Province",IR-10,10,"Mahmood Abad",0,OINM,,,,,,50,2008-11-30T19:38:54+00:00
+42513,OIHM,small_airport,"Malayer Airport",34.28333282470703,48.81666564941406,5662,AS,Iran,IR,"Hamadan Province",IR-13,13,Malayer,0,OIHM,,,,,,50,2008-11-30T19:37:53+00:00
+5201,OITM,small_airport,"Sahand Airport",37.347999572753906,46.127899169921875,4396,AS,Iran,IR,"East Azerbaijan Province",IR-03,03,Maragheh,0,OITM,ACP,,,https://en.wikipedia.org/wiki/Sahand_Airport,"Maragheh Highway Strip",50,2008-11-30T19:39:21+00:00
+355311,IR-0119,small_airport,"Mayamey Airport",36.421453,55.675084,,AS,Iran,IR,"Semnan Province",IR-20,20,Mayamey,0,,,,,,,50,2022-06-28T13:25:32+00:00
+3349,OI1C,small_airport,"Mehtar Kalateh Airport",36.856899,54.202202,-64,AS,Iran,IR,"Golestan Province",IR-27,27,"Mehtar Kalateh",0,OI1C,,OI1C,,,,50,2021-04-27T16:23:29+00:00
+351878,IR-0080,small_airport,"Meybod Airport",32.23082,53.95826,3675,AS,Iran,IR,"Yazd Province",IR-21,21,Meybod,0,,,,,,,50,2022-01-24T15:17:19+00:00
+504990,IR-0129,small_airport,"Minab Airport",27.09808,57.08056,102,AS,Iran,IR,"Hormozgan Province",IR-22,22,Minab,0,,,,,,"Minab Emergency Runway",50,2022-11-20T18:53:01+00:00
+349460,IR-0038,small_airport,"Mirmiro Agricultural Airport",34.56826,45.82255,1752,AS,Iran,IR,"Kermanshah Province",IR-05,05,Mirmiro,0,,,,,,,50,2021-11-05T15:11:20+00:00
+351199,IR-0050,small_airport,"Namakabrud Airport",36.68704,51.3089,-59,AS,Iran,IR,"Mazandaran Province",IR-02,02,Namakabrud,0,,,,,,"Namakabroud, Shahrak-e Namak Abrud",50,2022-01-04T04:08:40+00:00
+342245,IR-0031,small_airport,"Neyshabur Gliderport",36.24626,58.9049,4560,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,Neyshabur,0,,,,,,,50,2021-03-20T14:26:15+00:00
+351118,IR-0042,small_airport,"Esfarvarin Airport",35.95323,49.59599,4321,AS,Iran,IR,"Qazvin Province",IR-26,26,Nowdehak,0,,,,,,,50,2021-12-30T16:21:31+00:00
+5135,OIAJ,small_airport,"Omidiyeh Airport",30.835199,49.534901,85,AS,Iran,IR,"Khuzestan Province",IR-06,06,Omidiyeh,0,OIAJ,OMI,,,https://en.wikipedia.org/wiki/Omidiyeh_Air_Base,,50,2024-05-17T08:19:19+00:00
+308231,IR-0015,small_airport,"Khar Rud Airport",35.943639,50.082056,3858,AS,Iran,IR,"Qazvin Province",IR-26,26,Paypol-e-Vosta,0,,,,,,,50,2021-11-05T15:01:04+00:00
+5164,OIIC,small_airport,"Kushke Nosrat Airport",34.984001,50.806198,3008,AS,Iran,IR,"Qom Province",IR-25,25,Qāshqābolāq,0,OIIC,,OI1B,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%DA%A9%D9%88%D8%B4%DA%A9_%D9%86%D8%B5%D8%B1%D8%AA,,50,2024-05-20T18:42:52+00:00
+42511,OICG,closed,"Qasr-e Shirin Airport",34.516666,45.566666,,AS,Iran,IR,"Kermanshah Province",IR-05,05,"Qasr-e Shirin",0,,,,,,"OICG, OICG",50,2021-11-05T15:14:11+00:00
+351570,IR-0057,small_airport,"Qeshm Blue Sky Tourism Airport",26.93232,56.24459,125,AS,Iran,IR,"Hormozgan Province",IR-22,22,Qeshm,0,,,,,,,50,2022-01-17T10:57:43+00:00
+42514,OIIQ,closed,"Qom International Airport (under contstruction)",34.58114,50.657481,3690,AS,Iran,IR,"Qom Province",IR-25,25,Qom,0,,,,,https://en.wikipedia.org/wiki/Qom_International_Airport,OIIQ,50,2024-05-15T13:32:44+00:00
+355298,IR-0106,small_airport,"Jafarabad Agricultural Airport",34.786497,50.587244,,AS,Iran,IR,"Qom Province",IR-25,25,Qom,0,,,,,,,50,2022-06-28T12:31:50+00:00
+529461,IR-0170,small_airport,Qomrud,34.764019,50.912629,2854,AS,Iran,IR,"Qom Province",IR-25,25,Qom,0,,,,,,,50,2024-05-15T13:04:24+00:00
+42525,OITS,small_airport,"Saghez Airport",36.218333,46.298889,4880,AS,Iran,IR,"Kurdistan Province",IR-12,12,Saghez,0,OITS,,,,https://en.wikipedia.org/wiki/Saqqez_Airport,Saqqez,50,2018-07-14T19:39:11+00:00
+5211,OIZS,small_airport,"Saravan Airport",27.4193,62.3158,3930,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Saravan,0,OIZS,,,,,,50,2021-02-03T16:14:14+00:00
+351896,IR-0083,small_airport,"Dar Airport",28.064918,55.845244,2133,AS,Iran,IR,"Hormozgan Province",IR-22,22,Sarchahan,0,,,,,,,50,2022-01-25T11:54:54+00:00
+355297,IR-0105,small_airport,"Shahid Tahmouresi Airfield",34.985667,50.371786,,AS,Iran,IR,"Markazi Province",IR-00,00,Saveh,0,,,,,,,50,2022-06-28T12:29:43+00:00
+44974,IR-0010,small_airport,"Esfahan East Airport",32.582692,52.002218,4997,AS,Iran,IR,"Isfahan Province",IR-10,10,Sejzi,0,,,,,,,50,2021-10-15T17:19:13+00:00
+28487,IR-001,small_airport,"Vayqan Air Base",38.071998596191406,45.72359848022461,4200,AS,Iran,IR,"East Azerbaijan Province",IR-03,03,Shabestar,0,,,,,,,50,2008-11-30T19:36:33+00:00
+44969,IR-0007,small_airport,"Shadegan Airport",30.664429,48.644489,,AS,Iran,IR,"Khuzestan Province",IR-06,06,Shadegan,0,,,,,,Shadgan,50,2022-01-18T00:08:49+00:00
+5182,OIMJ,small_airport,"Shahrud International Airport",36.425301,55.104198,4215,AS,Iran,IR,"Semnan Province",IR-20,20,Shahrud,0,OIMJ,RUD,,,https://en.wikipedia.org/wiki/Shahroud_Airport,,50,2024-05-17T08:22:49+00:00
+356028,IR-0123,small_airport,"Qeshm Air Base",26.70306,55.9516,79,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Shib Deraz",0,,,,,,,50,2022-08-06T09:40:51+00:00
+32104,OIMX,small_airport,"Soga Airport",37.627899,56.1731,2460,AS,Iran,IR,"Golestan Province",IR-27,27,Soga,0,OIMX,,,,,,50,2021-12-17T18:33:32+00:00
+44973,IR-0009,small_airport,"Behbehan Northwest Airport",30.731452,50.114114,,AS,Iran,IR,"Khuzestan Province",IR-06,06,"Southern Qalind Village",0,,,,,,,50,2021-03-08T17:12:56+00:00
+44977,IR-0013,small_airport,"Sarvestan Airport",29.235207,53.127337,4898,AS,Iran,IR,"Fars Province",IR-07,07,"Taleb Beygi",0,,,,,,,50,2022-11-20T21:57:22+00:00
+351725,IR-0068,small_airport,"Nikshahr Airport",26.25217,60.3439,1886,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Teherk,0,,,,,,,50,2022-01-21T23:25:04+00:00
+5165,OIID,small_airport,"Doshan Tappeh Air Base",35.702999,51.475101,4046,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,0,OIID,,,,https://en.wikipedia.org/wiki/Doshan_Tappeh_Air_Base,,50,2024-05-18T21:15:37+00:00
+340405,IR-0023,small_airport,"Sepehr Airport",35.748152,51.602685,5217,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,0,,,,,,,50,2021-12-30T16:34:14+00:00
+352070,IR-0086,small_airport,"Tonb-e Bozorg Airport",26.25836,55.31579,49,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Tonb-e Bozorg",0,OIBX,,,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%AA%D9%86%D8%A8_%D8%A8%D8%B2%D8%B1%DA%AF,,50,2024-05-20T13:59:21+00:00
+352069,IR-0085,small_airport,"Tonb-e Kochak Airport",26.24331,55.14556,26,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Tonb-e Kochak",0,,,,,,,50,2022-11-20T19:07:06+00:00
+504980,IR-0125,small_airport,"Toodeshk Airport",32.74232,52.66679,6939,AS,Iran,IR,"Isfahan Province",IR-10,10,Toodeshk,0,,,,,,,50,2022-11-20T12:52:32+00:00
+42518,OIMH,small_airport,"Torbat-e Heydarieh Airport",35.266700744628906,59.21670150756836,4363,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,Torbat-E-Heidarieh,0,OIMH,,,,,Torbat-E-Heidarieh,50,2009-03-25T08:47:38+00:00
+355276,IR-0095,small_airport,"Asgar Abad Airport",35.334787,51.666161,,AS,Iran,IR,"Tehran Province",IR-23,23,Varamin,0,,,,,,,50,2022-06-28T10:36:15+00:00
+32106,OISO,small_airport,"Zarqan Airport",29.754728,52.693691,5500,AS,Iran,IR,"Fars Province",IR-07,07,Zarqan,0,OISO,,,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%B2%D8%B1%D9%82%D8%A7%D9%86,"Zargan, Zarghan",50,2024-05-20T18:43:42+00:00
+32102,OIFV,small_airport,"Zarrinshahr Airport",32.32740020751953,51.37730026245117,5650,AS,Iran,IR,"Isfahan Province",IR-10,10,Zarrinshahr,0,OIFV,,,,,,50,2008-11-30T19:37:48+00:00
+351200,IR-0051,small_airport,"Zibakenar Airport",37.45042,49.88422,-84,AS,Iran,IR,"Gilan Province",IR-01,01,Zibakenar,0,,,,,,"Aliabad-e Ziba Kenar",50,2022-01-04T04:15:52+00:00
+354795,IR-0088,heliport,"Military Helipads (2x)",35.529266,51.004323,,AS,Iran,IR,"Tehran Province",IR-23,23,,0,,,,,,,0,2022-06-06T05:40:58+00:00
+354798,IR-0091,heliport,"Military Heliport Runway (39x)",35.711762,50.934827,,AS,Iran,IR,"Tehran Province",IR-23,23,,0,,,,,,,0,2022-06-06T06:12:58+00:00
+512509,IR-0160,heliport,Khorramabad,33.548977,48.208742,,AS,Iran,IR,(unassigned),IR-U-A,U-A,,0,,,,,,,0,2023-09-26T04:25:23+00:00
+351575,IR-0062,heliport,"Hazrat Zeinab Hospital Heliport",30.00612,48.52599,1,AS,Iran,IR,"Khuzestan Province",IR-06,06,Abadan,0,,,,,,,0,2022-01-17T11:19:51+00:00
+351121,IR-0044,heliport,"Abhar Heliport",36.13321,49.1988,5197,AS,Iran,IR,"Zanjan Province",IR-19,19,Abhar,0,,,,,,,0,2021-12-30T16:23:21+00:00
+355302,IR-0110,heliport,"Qazvin Province Army Airfield",36.049396,50.484237,,AS,Iran,IR,"Qazvin Province",IR-26,26,"Abyek-e Sofla",0,,,,,,,0,2022-06-28T12:51:48+00:00
+341821,IR-0027,heliport,"Ahvaz Air Defense Base heliport",31.375906,48.650704,,AS,Iran,IR,"Khuzestan Province",IR-06,06,Ahvaz,0,,,,,,,0,2021-03-08T17:10:20+00:00
+343527,IR-0034,heliport,"Amol Heliport",36.45814,52.35132,361,AS,Iran,IR,"Mazandaran Province",IR-02,02,Amol,0,,,,,,,0,2021-04-27T16:19:56+00:00
+354794,IR-0087,heliport,"Amuk-e-pāyin Military Helipad",35.309329,51.139072,,AS,Iran,IR,"Tehran Province",IR-23,23,Amuk-e-pāyin,0,,,,,,,0,2022-06-28T10:40:12+00:00
+355278,IR-0097,heliport,"Red Crescent Relief and Rescue Base Heliport",35.307931,51.178894,,AS,Iran,IR,"Tehran Province",IR-23,23,Amuk-e-pāyin,0,,,,,,,0,2022-06-28T10:41:13+00:00
+504998,IR-0135,heliport,"Asalouyeh Hospital Heliport",27.47385,52.61568,3,AS,Iran,IR,"Bushehr Province",IR-18,18,Asalouyeh,0,,,,,,,0,2022-11-20T19:30:50+00:00
+351876,IR-0078,heliport,"Valiasr Hospital Heliport",31.60766,55.41862,3271,AS,Iran,IR,"Yazd Province",IR-21,21,Bafgh,0,,,,,,,0,2022-01-24T15:07:53+00:00
+351871,IR-0073,heliport,"Khatam Anbiya Hospital Heliport",29.23665,56.57679,7444,AS,Iran,IR,"Kerman Province",IR-08,08,Baft,0,,,,,,,0,2022-01-24T14:56:56+00:00
+505021,IR-0154,heliport,"Kerman Power Plant Heliport",30.20311,56.79187,5687,AS,Iran,IR,"Kerman Province",IR-08,08,Baghin,0,,,,,,,0,2022-11-20T22:31:48+00:00
+340586,IR-0024,heliport,"Bampour Heliport",27.200099,60.464098,1703,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Bampour,0,,,,,,,0,2022-01-21T23:22:41+00:00
+351739,IR-0070,heliport,"Khalij-e Fars (Persian Gulf) Hospital Heliport",27.21015,56.33501,138,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Bandar Abbas",0,,,,,,,0,2022-01-21T23:45:56+00:00
+351741,IR-0071,heliport,"Shahid Mohammadi Hospital Heliport",27.19365,56.29807,49,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Bandar Abbas",0,,,,,,,0,2022-01-21T23:46:51+00:00
+351574,IR-0061,heliport,"Amir Al Momenin Hospital Heliport",29.59029,50.5584,20,AS,Iran,IR,"Bushehr Province",IR-18,18,"Bandar Ganaveh",0,,,,,,,0,2022-01-17T11:13:49+00:00
+505000,IR-0137,heliport,"Imam Khomeini Hospital Heliport",27.85606,52.04695,98,AS,Iran,IR,"Bushehr Province",IR-18,18,"Bandar Kangan",0,,,,,,,0,2022-11-20T19:46:35+00:00
+351571,IR-0058,heliport,"Shohada Hospital Heliport",26.58171,54.9134,46,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Bandar Lengeh",0,,,,,,,0,2022-01-17T10:59:02+00:00
+504999,IR-0136,heliport,"Bandar-e Mogham Heliport",26.97077,53.48921,20,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Bandar-e Mogham",0,,,,,,,0,2022-11-20T19:37:22+00:00
+505008,IR-0144,heliport,"Shohada Hospital Heliport",30.3704,51.15521,2707,AS,Iran,IR,"Kohgiluyeh and Boyer-Ahmad Province",IR-17,17,Basht,0,,,,,,,0,2022-11-20T21:12:16+00:00
+517959,IR-0168,heliport,"Bazargan Gas Measuring Station Helipad",39.396964,44.397418,,AS,Iran,IR,"West Azerbaijan Province",IR-04,04,Bazargan,0,,,,,,,0,2023-12-28T19:24:21+00:00
+351588,IR-0066,heliport,"Behbahan Valiasr Hospital Heliport",30.61104,50.20473,1038,AS,Iran,IR,"Khuzestan Province",IR-06,06,Behbahan,0,,,,,,,0,2022-01-21T23:52:30+00:00
+505001,IR-0138,heliport,"Imam Ali Hospital Heliport",28.92862,50.82229,39,AS,Iran,IR,"Bushehr Province",IR-18,18,Bushehr,0,,,,,,,0,2022-11-20T20:01:53+00:00
+340587,IR-0025,closed,"New Chabahar International Airport (under construction)",25.386937,60.777814,,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Chabahar,0,,,,,,,0,2021-04-21T23:45:50+00:00
+351562,IR-0054,heliport,"Chabahar Ramin Beach Police Heliport",25.27305,60.74962,82,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Chabahar,0,,,,,,,0,2022-01-17T05:20:09+00:00
+504996,IR-0134,heliport,"Imam Khomeini Hospital Heliport",27.37567,52.78668,79,AS,Iran,IR,"Bushehr Province",IR-18,18,"Chah Mobarak",0,,,,,,,0,2022-11-20T19:24:25+00:00
+518013,IR-0169,heliport,"Suleiman Aghl Border Post Helipad",39.367309,44.042081,,AS,Iran,IR,"West Azerbaijan Province",IR-04,04,Chaldoran,0,,,,,,,0,2023-12-29T13:47:26+00:00
+351126,IR-0048,heliport,"Third Shaban Hospital Heliport",35.69557,52.03871,6388,AS,Iran,IR,"Tehran Province",IR-23,23,Damavand,0,,,,,,,0,2021-12-30T16:36:12+00:00
+505017,IR-0151,heliport,"Imam Hasan al-Mojtaba Hospital Heliport",28.74251,54.55593,3740,AS,Iran,IR,"Fars Province",IR-07,07,Darab,0,,,,,,,0,2022-11-20T22:04:55+00:00
+505013,IR-0147,heliport,"Dorodzan Dam Heliport",30.21176,52.41705,5610,AS,Iran,IR,"Fars Province",IR-07,07,Dorodzan,0,,,,,,Dorudzan,0,2022-11-20T21:37:19+00:00
+505012,IR-0146,heliport,"Eqlid Red Crescent Heliport",30.85656,52.53252,7953,AS,Iran,IR,"Fars Province",IR-07,07,Eqlid,0,,,,,,,0,2022-11-20T21:27:41+00:00
+355313,IR-0121,heliport,"Esfarayen Heliport",37.07381,57.527474,,AS,Iran,IR,"North Khorasan Province",IR-28,28,Esfarayen,0,,,,,,,0,2022-06-28T13:28:30+00:00
+341668,IR-0026,heliport,"Farsi Island Heliport",27.992575,50.172131,,AS,Iran,IR,"Bushehr Province",IR-18,18,"Farsi Island",0,,,,,,,0,2021-03-05T11:41:29+00:00
+351578,IR-0063,heliport,"Qaem Hospital Heliport",28.83819,52.58915,4406,AS,Iran,IR,"Fars Province",IR-07,07,Firuzabad,0,,,,,,,0,2022-01-17T11:39:06+00:00
+355310,IR-0118,heliport,"Imam Khomeini Hospital Heliport",35.754165,52.737608,,AS,Iran,IR,"Tehran Province",IR-23,23,Firuzkuh,0,,,,,,,0,2022-06-28T13:23:39+00:00
+355275,IR-0094,heliport,"Motamedi Hospital Garmsar Heliport",35.209278,52.367351,,AS,Iran,IR,"Semnan Province",IR-20,20,Garmsār,0,,,,,,,0,2022-06-28T10:31:03+00:00
+341822,IR-0028,heliport,"Camp Andimeshk West Heliport",32.413772,48.166992,,AS,Iran,IR,"Khuzestan Province",IR-06,06,Ghods,0,,,,,,,0,2021-03-08T17:15:13+00:00
+341823,IR-0029,heliport,"Camp Andimeshk East Heliport",32.416335,48.17769,,AS,Iran,IR,"Khuzestan Province",IR-06,06,Ghods,0,,,,,,,0,2021-03-08T17:15:40+00:00
+355295,IR-0103,heliport,"Farshchian Cardiovascular Hospital Heliport",34.787449,48.483219,,AS,Iran,IR,"Hamadan Province",IR-13,13,Hamedan,0,,,,,,,0,2022-06-28T12:26:00+00:00
+504991,IR-0130,heliport,"Hasan Langi-ye Bala Police Station Heliport",27.39015,56.91369,121,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Hasan Langi-ye Bala",0,,,,,,,0,2022-11-20T18:56:33+00:00
+355292,IR-0100,heliport,"Javanrūd Hospital Heliport",34.803571,46.502006,,AS,Iran,IR,"Kermanshah Province",IR-05,05,Javanrūd,0,,,,,,,0,2022-06-28T12:14:11+00:00
+355299,IR-0107,heliport,"Imam Reza Hospital Heliport",35.217661,48.730186,,AS,Iran,IR,"Hamadan Province",IR-13,13,Kabudarahang,0,,,,,,,0,2022-06-28T12:36:14+00:00
+351874,IR-0076,heliport,"Shahid Bahonar Hospital Heliport",30.28823,57.06837,,AS,Iran,IR,"Kerman Province",IR-08,08,Kerman,0,,,,,,,0,2022-01-24T15:05:00+00:00
+351875,IR-0077,heliport,"Afzalipour Hospital Heliport",30.2551,57.0998,5801,AS,Iran,IR,"Kerman Province",IR-08,08,Kerman,0,,,,,,,0,2022-01-24T15:05:42+00:00
+355294,IR-0102,heliport,"Imam Reza Hospital Heliport",34.378947,47.131025,,AS,Iran,IR,"Kermanshah Province",IR-05,05,Kermanshah,0,,,,,,,0,2022-06-28T12:22:48+00:00
+355314,IR-0122,closed,"Khadem Anlu Airport",37.279504,58.827439,,AS,Iran,IR,"Razavi Khorasan Province",IR-09,09,"Khadem Anlu",0,,,,,,,0,2022-06-28T13:37:57+00:00
+505002,IR-0139,closed,"Khargo Airstrip",29.33337,50.35069,,AS,Iran,IR,"Bushehr Province",IR-18,18,Khargo,0,,,,,,,0,2022-11-20T20:06:09+00:00
+351573,IR-0060,heliport,"Khark Oil Industry Hospital Heliport",29.25446,50.32023,30,AS,Iran,IR,"Bushehr Province",IR-18,18,Khark,0,,,,,,,0,2022-01-17T11:10:27+00:00
+351122,IR-0045,heliport,"South Ghazal Heliport",36.25167,49.20246,5456,AS,Iran,IR,"Zanjan Province",IR-19,19,Khorramdarreh,0,,,,,,,0,2021-12-30T16:25:51+00:00
+355300,IR-0108,heliport,"Minoo Heliport",36.202176,49.212288,,AS,Iran,IR,"Zanjan Province",IR-19,19,Khorramdarreh,0,,,,,,,0,2022-06-28T12:46:33+00:00
+355293,IR-0101,heliport,"Khosravi Heliport",34.368632,45.488651,,AS,Iran,IR,"Kermanshah Province",IR-05,05,Khosravi,0,,,,,,,0,2022-06-28T12:18:51+00:00
+504992,IR-0131,closed,"Former Kish Airport",26.5491,53.97661,72,AS,Iran,IR,"Hormozgan Province",IR-22,22,Kish,0,,,,,,,0,2022-11-20T19:10:38+00:00
+351563,IR-0055,heliport,"Konarak Naval Heliport",25.29913,60.4376,66,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Konarak,0,,,,,,,0,2022-01-17T05:23:23+00:00
+505019,IR-0152,heliport,"Mehararan Oil Transfer Facility Heliport",28.5816,55.77152,4708,AS,Iran,IR,"Hormozgan Province",IR-22,22,Koshkuye,0,,,,,,,0,2022-11-20T22:15:36+00:00
+504988,IR-0128,heliport,"Jask Oil Terminal Heliport",25.85089,57.30347,16,AS,Iran,IR,"Hormozgan Province",IR-22,22,"Kuh Mobarak",0,,,,,,,0,2022-11-20T18:43:30+00:00
+504994,IR-0132,seaplane_base,"Lavan Helicopter Base",26.79664,53.3838,33,AS,Iran,IR,"Hormozgan Province",IR-22,22,Lavan,0,,,,,,,0,2022-11-20T19:17:21+00:00
+504982,IR-0126,heliport,"Lirdaf Police Station Heliport",25.65106,58.86936,98,AS,Iran,IR,"Hormozgan Province",IR-22,22,Lirdaf,0,,,,,,,0,2022-11-20T13:08:40+00:00
+517897,IR-0166,heliport,"Yarem Qayah-e Olya Border Post Helipad",39.469653,44.417446,,AS,Iran,IR,"West Azerbaijan Province",IR-04,04,Maku,0,,,,,,,0,2023-12-27T19:24:31+00:00
+351879,IR-0081,heliport,"Imam Sadegh Hospital Heliport",32.22224,54.02164,3643,AS,Iran,IR,"Yazd Province",IR-21,21,Meybod,0,,,,,,,0,2022-01-24T15:19:47+00:00
+505024,IR-0157,closed,"Meybod Airfield",32.25874,54.08914,,AS,Iran,IR,"Yazd Province",IR-21,21,Meybod,0,,,,,,,0,2022-11-20T23:31:28+00:00
+351116,IR-0040,heliport,"Mianeh Emergency Heliport",37.4417,47.71147,3747,AS,Iran,IR,"East Azerbaijan Province",IR-03,03,Mianeh,0,,,,,,,0,2021-12-30T16:18:57+00:00
+351569,IR-0056,heliport,"Hazrat Abolfazl Hospital Heliport",27.11536,57.06621,75,AS,Iran,IR,"Hormozgan Province",IR-22,22,Minab,0,,,,,,,0,2022-01-17T10:55:58+00:00
+505025,IR-0158,heliport,"Naeen Hospital Heliport",32.8486,53.08569,5135,AS,Iran,IR,"Isfahan Province",IR-10,10,Naeen,0,,,,,,,0,2022-11-20T23:37:16+00:00
+505005,IR-0141,heliport,"Paznan Oil Facility Heliport",30.33635,50.28434,650,AS,Iran,IR,"Khuzestan Province",IR-06,06,Paradis,0,,,,,,,0,2022-11-20T20:45:16+00:00
+355308,IR-0116,heliport,"Pardis Heliport",35.734343,51.834087,,AS,Iran,IR,"Tehran Province",IR-23,23,Pardis,0,,,,,,,0,2022-06-28T13:18:58+00:00
+342840,IR-0033,closed,"Parsiyan Airport",27.22208,53.02638,174,AS,Iran,IR,"Hormozgan Province",IR-22,22,Parsiyan,0,,,,,,,0,2022-11-20T19:20:41+00:00
+504995,IR-0133,heliport,"Rostamani Parsiyan Hospital Heliport",27.17552,53.04576,220,AS,Iran,IR,"Hormozgan Province",IR-22,22,Parsiyan,0,,,,,,,0,2022-11-20T19:21:31+00:00
+351561,IR-0053,heliport,"Pasabandar Heliport",25.06605,61.40658,82,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,Pasabandar,0,,,,,,,0,2022-01-17T05:16:15+00:00
+517958,IR-0167,heliport,"Kharmanyeri Military Base Helipad",39.406612,44.426471,,AS,Iran,IR,"West Azerbaijan Province",IR-04,04,"Qaleh Darrehsi Rural District",0,,,,,,,0,2023-12-28T19:17:23+00:00
+351127,IR-0049,heliport,"Shahid Sattari Hospital Heliport",35.44636,51.56062,3176,AS,Iran,IR,"Tehran Province",IR-23,23,Qarchak,0,,,,,,,0,2021-12-30T16:37:39+00:00
+351123,IR-0046,heliport,"Qazvin Provincial Hospital Heliport",36.3242,49.99643,4528,AS,Iran,IR,"Qazvin Province",IR-26,26,Qazvin,0,,,,,,,0,2021-12-30T16:28:35+00:00
+355279,IR-0098,heliport,"Shahid Beheshti Hospital Heliport",34.666357,50.882907,,AS,Iran,IR,"Qom Province",IR-25,25,Qom,0,,,,,,,0,2022-06-28T10:44:09+00:00
+355280,IR-0099,heliport,"Imam Reza Hospital Heliport",34.599228,50.801519,,AS,Iran,IR,"Qom Province",IR-25,25,Qom,0,,,,,,,0,2022-06-28T10:47:31+00:00
+351723,IR-0067,heliport,"Iranshahr Thermal Power Plant Heliport",27.22727,60.48923,1768,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,"Rig-e Kaput",0,,,,,,,0,2022-01-21T23:21:28+00:00
+355296,IR-0104,heliport,"Rowan Power Plant Heliport",35.133543,48.85354,,AS,Iran,IR,"Hamadan Province",IR-13,13,Rowan,0,,,,,,,0,2022-06-28T12:27:15+00:00
+355309,IR-0117,heliport,"Hazrat Mohammad Clinic Rudehen Heliport",35.73332,51.90557,,AS,Iran,IR,"Tehran Province",IR-23,23,Rudehen,0,,,,,,,0,2022-06-28T13:20:07+00:00
+505006,IR-0142,heliport,"Sardasht Gas Facility Heliport",30.34588,50.22587,589,AS,Iran,IR,"Khuzestan Province",IR-06,06,Sardasht,0,,,,,,,0,2022-11-20T20:49:57+00:00
+505016,IR-0150,closed,"Seyf Abad Airport",29.2824,52.96275,4823,AS,Iran,IR,"Fars Province",IR-07,07,"Seyf Abad",0,,,,,,,0,2022-11-20T21:54:37+00:00
+351587,IR-0065,heliport,"Shahid Moarebi Zadeh Hospital Heliport",30.66143,48.65149,26,AS,Iran,IR,"Khuzestan Province",IR-06,06,Shadegan,0,,,,,,,0,2022-01-18T00:10:19+00:00
+505007,IR-0143,heliport,"Dasht Gaz Oil Facility Heliport",30.39992,50.61564,1762,AS,Iran,IR,"Kohgiluyeh and Boyer-Ahmad Province",IR-17,17,"Shams-e Arab",0,,,,,,,0,2022-11-20T20:59:33+00:00
+505020,IR-0153,heliport,"Imam Reza Hospital Heliport",29.44055,55.70242,5741,AS,Iran,IR,"Kerman Province",IR-08,08,Sirjan,0,,,,,,,0,2022-11-20T22:23:31+00:00
+349459,IR-0037,heliport,"Sonqor Heliport",34.78199,47.58784,5620,AS,Iran,IR,"Kermanshah Province",IR-05,05,Sonqor,0,,,,,,,0,2021-11-05T15:08:15+00:00
+351560,IR-0052,heliport,"Gabd-Kumb Border Heliport",25.38261,61.65259,33,AS,Iran,IR,"Sistan and Baluchestan Province",IR-11,11,"Tamp Kuh",0,,,,,,,0,2022-01-17T05:15:13+00:00
+351895,IR-0082,closed,"Tashkuye Airport",28.129664,55.440938,2300,AS,Iran,IR,"Hormozgan Province",IR-22,22,Tashkuye,0,,,,,,"Tūshkūyeh, Tush Kuyeh",0,2022-11-20T22:09:19+00:00
+354852,IR-0092,heliport,"Military Helipads (6x)",35.503671,51.015551,,AS,Iran,IR,"Tehran Province",IR-23,23,Teheran,0,,,,,,,0,2022-06-08T23:04:54+00:00
+354853,IR-0093,heliport,"Police Helipad",35.470064,51.014671,,AS,Iran,IR,"Tehran Province",IR-23,23,Teheran,0,,,,,,,0,2022-06-08T23:06:44+00:00
+355303,IR-0111,heliport,"Cheetgar Heliport",35.74959,51.20801,,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,0,,,,,,,0,2022-06-28T12:53:55+00:00
+355304,IR-0112,heliport,"Iran National Olympic Academy Heliport",35.780123,51.401709,,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,0,,,,,,,0,2022-06-28T12:55:39+00:00
+355305,IR-0113,heliport,"Milad Hospital Heliport",35.745993,51.380311,,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,0,,,,,,,0,2022-06-28T12:57:02+00:00
+355306,IR-0114,heliport,"Elahiyeh Heliport",35.788342,51.428875,,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,0,,,,,,,0,2022-06-28T12:58:58+00:00
+355307,IR-0115,heliport,"Tehran East Emergency Heliport",35.731478,51.638816,,AS,Iran,IR,"Tehran Province",IR-23,23,Tehran,0,,,,,,,0,2022-06-28T13:17:40+00:00
+505004,IR-0140,heliport,"Reg Sefid Oil Facility Heliport",30.29831,50.09888,551,AS,Iran,IR,"Khuzestan Province",IR-06,06,"Tol-e Gorosne",0,,,,,,,0,2022-11-20T20:57:08+00:00
+355277,IR-0096,heliport,"15 Khordad Varamin Hospital Heliport",35.368149,51.61694,,AS,Iran,IR,"Tehran Province",IR-23,23,Varamin,0,,,,,,,0,2022-06-28T10:36:40+00:00
+505009,IR-0145,closed,"Former Yasuj Airport",30.64278,51.58891,5830,AS,Iran,IR,"Kohgiluyeh and Boyer-Ahmad Province",IR-17,17,Yasuj,0,,,,,,,0,2022-11-20T21:16:18+00:00
+351877,IR-0079,heliport,"Shohadaye Kargar Hospital Heliport",31.86773,54.39786,4029,AS,Iran,IR,"Yazd Province",IR-21,21,Yazd,0,,,,,,,0,2022-01-24T15:12:48+00:00
+505026,IR-0159,heliport,"Zafarghand Compressor Station Heliport",33.20162,52.45951,5666,AS,Iran,IR,"Isfahan Province",IR-10,10,Zafarghand,0,,,,,,,0,2022-11-20T23:47:11+00:00
+351873,IR-0075,heliport,"Imam Ali Hospital Heliport",30.80895,56.54502,5407,AS,Iran,IR,"Kerman Province",IR-08,08,Zarand,0,,,,,,,0,2022-11-20T22:47:21+00:00
